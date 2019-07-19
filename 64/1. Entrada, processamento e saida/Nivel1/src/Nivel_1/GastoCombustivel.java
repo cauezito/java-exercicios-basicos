@@ -6,7 +6,7 @@ Tendo o valor da distância, basta calcular a quantidade de litros de combustív
 fórmula: LITROS_USADOS = DISTANCIA / 12. O programa deve apresentar os valores da velocidade média,
 tempo gasto, a distância percorrida e a quantidade de litros utilizada na viagem. Dica: trabalhe com valores reais.
  */
-package _5;
+package Nivel_1;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 /**

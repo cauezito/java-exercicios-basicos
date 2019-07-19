@@ -3,7 +3,7 @@
  temperatura a ser utilizada é C = (F - 32) * 5 / 9, em que a variável F é a temperatura em graus Fahrenheit e a
  variável C é a temperatura em graus Celsius.
  */
-package _7;
+package Nivel_1;
 
 import java.util.Scanner;
 /**
