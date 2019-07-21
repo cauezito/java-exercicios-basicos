@@ -31,5 +31,10 @@ Estruturas Condicionais.
 
 
 **NÍVEL 3:**
-Estruturas de Seleção.<br>
-Em andamento!
+Estruturas de Seleção.
+<ul>
+  <li>22 - Operações Matemáticas <b>(OK)</b></li>
+  <li>23 - Peso Ideal <b>(OK)</b></li>
+  <li>24 - Verificações <b>(OK)</b></li>
+</ul>
+
