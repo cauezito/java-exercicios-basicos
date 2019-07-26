@@ -6,7 +6,6 @@ comissão será de 5% do total da venda e que você tem os seguintes dados:
 - Preço unitário da peça
 - Quantidade vendida
  */
-package Nivel_1;
 import java.util.Scanner;
 /**
  *

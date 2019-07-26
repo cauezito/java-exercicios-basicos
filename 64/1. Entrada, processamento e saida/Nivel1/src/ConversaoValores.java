@@ -5,7 +5,6 @@ Faça um programa que:
 - Converta esse valor para Real
 - Mostre o resultado
  */
-package Nivel_1;
 import java.util.Scanner;
 
 /**
