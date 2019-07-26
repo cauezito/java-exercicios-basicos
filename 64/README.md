@@ -38,3 +38,27 @@ Estruturas de Seleção.
   <li>24 - Verificações <b>(OK)</b></li>
 </ul>
 
+**NÍVEL 4:**
+Estruturas de Repetição.
+<ul>
+  <li>26 - Ordem Decrescente <b>(OK)</b></li>
+  <li>27 - Fatorial de um número <b>(OK)</b></li>
+  <li>28 - Números Ímpares <b>(OK)</b></li>
+  <li>29 - Exibir Números <b>(OK)</b></li>
+  <li>30 - Tabuada (Em andamento...)</li>
+  <li>31 - Ler Números <b>(OK)</b></li>
+  <li>32 - Soma dos Quadrados <b>(OK)</b></li>
+  <li>33 - Média das Notas <b>(OK)</b></li>
+  <li>34 - Maior E Menor <b>(OK)</b></li>
+  <li>35 - Múltiplos de 10 <b>(OK)</b></li>
+  <li>36 - Encontrando Valores <b>(OK)</b></li>
+  <li>37 - Conversão de Base Númerica (Em andamento...)</li>
+  <li>38 - Calcular Salário (<b>(OK)</b></li>
+  <li>39 - Números <b>(OK)</b></li>
+  <li>40 - Índice de poluição <b>(OK)</b></li>
+  <li>41 - Classificar Nadador <b>(OK)</b></li>
+  <li>42 - Maior ou menor <b>(OK)</b></li>
+  <li>43 - Pagamento (Em andamento...)</li>
+  <li>44 - Conversões e Peso Ideal <b>(OK)</b></li>
+</ul>
+
