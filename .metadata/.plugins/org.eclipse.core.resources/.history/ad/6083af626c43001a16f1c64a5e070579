@@ -1,0 +1,10 @@
+package main;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		File file = new File("C:\\Users\\Cauê\\Documents\\Outros\\teste.txt");
+
+	}
+
+}

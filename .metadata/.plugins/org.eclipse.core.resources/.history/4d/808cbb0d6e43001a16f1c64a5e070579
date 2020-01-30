@@ -1,0 +1,10 @@
+package main;
+
+public class BufferedReader {
+
+	public static void main(String[] args) {
+		String caminho = "C:\\Users\\Cauê\\Documents\\Outros\\teste.txt";
+
+	}
+
+}

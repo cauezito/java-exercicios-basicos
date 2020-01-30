@@ -1,0 +1,22 @@
+package main;
+
+import java.io.File;
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		//encapsula todo o processo de acesso ao arquivo
+		File file = new File("C:\\Users\\Cauê\\Documents\\Outros\\teste.txt");
+		Scanner sc = null;
+		
+		try {
+			sc = new Scanner(file);
+		}
+		
+		
+
+	}
+
+}

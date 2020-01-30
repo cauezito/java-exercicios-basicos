@@ -1,0 +1,26 @@
+package main;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class TryWithResources {
+
+	public static void main(String[] args) {
+		String caminho = "C:\\Users\\Cauê\\Documents\\Outros\\teste.txt";
+
+		try (BufferedReader br = new BufferedReader(new FileReader)) {
+			fr = new FileReader(caminho);
+			// esquema de buffer, possibilita uma leitura mais rápida e flexível
+			br = new BufferedReader(fr);
+			String linha = br.readLine(); // lê uma linha, se estiver no final retorna nulo.
+
+			while (linha != null) {
+				System.out.println(linha);
+				linha = br.readLine();
+			}
+		} catch (IOException e) {
+			System.out.println("Erro: " + e.getMessage());
+		} 
+	}
+}

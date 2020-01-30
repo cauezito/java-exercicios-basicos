@@ -1,0 +1,18 @@
+package main;
+
+import java.io.FileReader;
+
+public class BufferedReader {
+
+	public static void main(String[] args) {
+		String caminho = "C:\\Users\\Cauê\\Documents\\Outros\\teste.txt";
+		FileReader fr  = null;
+		BufferedReader br = null;
+		
+		try {
+			fr = new FileReader(caminho);
+		}
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package main;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class Manual {
+
+	public static void main(String[] args) {
+		String caminho = "C:\\Users\\Cauê\\Documents\\Outros\\teste.txt";
+		FileReader fr  = null;
+		BufferedReader br = null;
+		
+		try {
+			fr = new FileReader(caminho);
+			//esquema de buffer, possibilita uma leitura mais rápida e flexível
+			br = new BufferedReader(fr);
+			String linha = br.readLine();
+			
+			while(linha != null) {
+				System.out.println(br.readLine());
+			}
+		}
+
+	}
+
+}
